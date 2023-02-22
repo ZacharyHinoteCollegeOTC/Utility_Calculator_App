@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Utility Calculator App</string>
+    <string name="base_name">Utility Calculator Home</string>
+    <string name="tip_button">Tip</string>
+    <string name="gas_button">Gas Mileage</string>
+    <string name="loan_button">Loan</string>
+    <string name="tip_name">Tip Calculator</string>
+    <string name="tip_entry_1">Bill:</string>
+    <string name="tip_entry_2">Percentage:</string>
+    <string name="FifteenPercent">15%</string>
+    <string name="TwentyPercent">20%</string>
+    <string name="TenPercent">10%</string>
+    <string name="TwentyFivePercent">25%</string>
+    <string name="Calculate">Calculate</string>
+    <string name="gas_name">Gas Mileage Calculator</string>
+    <string name="tank_size">Gas Tank Size (Gallons):</string>
+    <string name="TravelDistance">Travel Distance Limit (Miles):</string>
+
+
+    <string name="loan_name">Monthly Loan Calculator</string>
+
+    <string name="loan_entry_1">Loan Amount (dollars): </string>
+    <string name="loan_entry_2">Loan Time (years):</string>
+    <string name="loan_entry_3">Loan Time (months):</string>
+
+
+</resources>
